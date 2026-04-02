@@ -1,6 +1,8 @@
 ﻿---
 name: xy-ai-ui
 description: Generic desktop UI/UX and task-flow standards for Electron-style apps. Use when refining visual consistency, alignment, modal flows, cancellation behavior, and long-running task interactions.
+metadata:
+  short-description: Desktop UI/UX and task-flow standards for Electron apps
 license: Complete terms in LICENSE.txt
 ---
 
