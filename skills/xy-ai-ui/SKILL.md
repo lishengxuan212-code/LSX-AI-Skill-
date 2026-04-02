@@ -21,6 +21,20 @@ Lightweight standards skill for desktop app UI and interaction quality.
 - Primary: Electron desktop apps
 - Also applicable to other desktop webview containers
 
+## Windows 11 UI Style Prompt
+When the user requests modern Windows desktop aesthetics, apply the following prompt constraints:
+- Main window uses Mica-like translucent material.
+- Cards and floating panels use Acrylic-like frosted surfaces.
+- Use large rounded corners (12px) and soft layered shadows.
+- Support global window dragging on blank background regions.
+- Controls should lift on hover with deeper shadows.
+- Remove default focus rings/highlight outlines unless accessibility requires visible focus.
+- Typography uses Segoe UI sans-serif.
+- Color system: brand blue primary + neutral-dominant palette + high contrast.
+- Match Windows 11 visual language: clean, lightweight, system-native feel.
+- Keep seamless integrated layout: no heavy borders, use depth and hierarchy to separate content.
+- Motion should be smooth and natural, with restrained but clear transitions.
+
 ## Core Rules
 1. Architecture boundaries:
 - Main: system operations + orchestration
