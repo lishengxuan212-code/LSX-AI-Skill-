@@ -1,15 +1,20 @@
 ﻿{
     "history":  [
                     {
-                        "publishedAt":  1775096314262,
+                        "publishedAt":  1775099984934,
                         "commit":  "local",
                         "version":  "1.0.0"
+                    },
+                    {
+                        "publishedAt":  1775099984935,
+                        "commit":  "pending-pr",
+                        "version":  "1.1.0"
                     }
                 ],
     "latest":  {
-                   "publishedAt":  1775096314258,
-                   "commit":  "local",
-                   "version":  "1.0.0"
+                   "publishedAt":  1775099984935,
+                   "commit":  "pending-pr",
+                   "version":  "1.1.0"
                },
     "displayName":  "xy-ai-ui",
     "owner":  "local",
